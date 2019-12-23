@@ -22,3 +22,4 @@ TBD
 ## Tips
 - Use [SSDTTime](https://github.com/corpnewt/SSDTTime) to generate fake EC in case of need
 - Use [Hackintool](http://headsoft.com.au/download/mac/Hackintool.zip) to generate your USBports map
+- Use [macinfo](https://github.com/acidanthera/MacInfoPkg) to generate your S/N
