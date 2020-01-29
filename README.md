@@ -1,5 +1,7 @@
 # Opencore-Gigabyte-Z390M-Gaming-Hackintosh
-It just works.
+
+## Verified working with 10.15.3.
+![](https://raw.githubusercontent.com/wellsgz/Opencore-Gigabyte-Z390M-Gaming-Hackintosh/master/imgs/Snipaste_2020-01-29_16-58-11.png)
 
 ## Configuration
 Motherboard: Gigabyte Z390M Gaming  
